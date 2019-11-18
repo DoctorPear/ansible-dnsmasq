@@ -154,3 +154,4 @@ Licensed under the 2-clause "Simplified BSD License". See [LICENSE.md](/LICENSE.
 - [Chris James](https://github.com/etcet)
 - [David Wittman](https://github.com/DavidWittman)
 - [Niklas Juslin](https://github.com/JZfi)
+- [Robin Peerlinck](https://github.com/DoctorPear)
